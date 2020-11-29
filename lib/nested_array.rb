@@ -40,7 +40,7 @@ end
 def matrix_lookup(matrix, row, column)
  produce_storage = 
    [CONVENTIONAL_PRODUCE ,
-    lassembled_matrixORGANIC_PRODUCE]
+    ORGANIC_PRODUCE]
    
    puts produce_storage[1][1]
 
