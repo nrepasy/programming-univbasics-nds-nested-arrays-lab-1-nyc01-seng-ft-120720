@@ -58,7 +58,7 @@ def matrix_update(matrix, row, column, new_value)
     ]
   
   produce_storage[0][2] = "Onions"
-  p CONVENTIONAL_PRODUCE
+  p produce_storage
   
   
   # Given any matrix (array of arrays), a row index and a column index, 
