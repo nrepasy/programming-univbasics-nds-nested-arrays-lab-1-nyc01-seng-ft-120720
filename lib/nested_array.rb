@@ -37,6 +37,21 @@ def sorted_matrix
   # However, this time, sort each internal array alphabetically by the first character
 end
 
+ORGANIC_PRODUCE = [
+  "Strawberries",
+  "Potatoes",
+  "Grapes",
+  "Avocadoes",
+  "Asparagus"
+]
+
+CONVENTIONAL_PRODUCE = [
+  "Grapefruit",
+  "Pineapple",
+  "Oranges",
+  "Watermelon",
+  "Eggplant"
+]
 def matrix_lookup(matrix, row, column)
  produce_storage = 
    [CONVENTIONAL_PRODUCE ,
