@@ -38,11 +38,11 @@ def sorted_matrix
 end
 
 def matrix_lookup(matrix, row, column)
- produce_storage = [
-   [CONVENTIONAL_PRODUCE.sort],
-   [ORGANIC_PRODUCE.sort]
-   ]
-   p produce_storage[1][1]
+ produce_storage = 
+   [CONVENTIONAL_PRODUCE],
+   [ORGANIC_PRODUCE]
+   
+   puts produce_storage[1][1]
 
   # Given any matrix (array of arrays), a row index and a column index, 
   # Return the matrix's content at that row and and column
