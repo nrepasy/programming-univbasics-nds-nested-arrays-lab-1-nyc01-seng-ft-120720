@@ -42,7 +42,7 @@ def matrix_lookup(matrix, row, column)
    [CONVENTIONAL_PRODUCE ,
     ORGANIC_PRODUCE]
   
-  produce_storage[0][1 ]
+  produce_storage[1][0]
    
 
   # Given any matrix (array of arrays), a row index and a column index, 
