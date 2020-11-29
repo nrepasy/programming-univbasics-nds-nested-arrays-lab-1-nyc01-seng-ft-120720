@@ -57,6 +57,7 @@ def matrix_update(matrix, row, column, new_value)
     ORGANIC_PRODUCE
     ]
   
+  ORGANIC_PRODUCE[0][1] = "Onions"
   
   
   # Given any matrix (array of arrays), a row index and a column index, 
