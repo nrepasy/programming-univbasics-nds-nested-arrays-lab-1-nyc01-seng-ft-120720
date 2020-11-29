@@ -57,7 +57,7 @@ def matrix_update(matrix, row, column, new_value)
     ORGANIC_PRODUCE
     ]
   
-  produce_storage[0][2] = "Onions"
+  produce_storage[0][2] = "Lemons"
   p produce_storage
   
   
