@@ -38,7 +38,7 @@ def sorted_matrix
 end
 
 def matrix_lookup(matrix, row, column)
- produce_storage = []
+ produce_storage = [
    [CONVENTIONAL_PRODUCE,
    ORGANIC_PRODUCE]
    ]
